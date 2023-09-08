@@ -1,0 +1,8 @@
+*.ipynb
+*.html
+*.csv
+*.json
+
+.DS_Store
+.idea/
+__pycache__/
